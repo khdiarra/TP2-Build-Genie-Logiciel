@@ -1,7 +1,7 @@
 ---
 title:     TP2 de Génie Logiciel
 subtitle:  les outils de « build »
-authors:    Diarra Khadidiatou et Diallo Djenabou Cellou
+authors:    Diarra Khadidiatou
 
 ---
 
